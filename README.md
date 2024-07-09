@@ -36,3 +36,6 @@ Soy un ingeniero recién graduado apasionado por la tecnología, entusiasta del 
  * basic/intermediate C#
  * basic C++
  * basic Python
+### CONTACT
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/erick-gabriel-amaral-garcia-0a1881233/))
