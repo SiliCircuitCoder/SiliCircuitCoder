@@ -38,5 +38,4 @@ Soy un ingeniero recién graduado apasionado por la tecnología, entusiasta del 
  * basic Python
 ### CONTACT
 ---
-[![LinkedIn](![image](https://github.com/SiliCircuitCoder/SiliCircuitCoder/assets/174857123/8733aecf-61e8-49ec-af51-cba4cfc0cf59)
-)](https://www.linkedin.com/in/erick-gabriel-amaral-garcia-0a1881233/)
+[![LinkedIn]](https://www.linkedin.com/in/erick-gabriel-amaral-garcia-0a1881233/)
