@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola, mi nombre es Brais Moure/ Hi, My name is Erick 👋 :)
+### Electronics and Communications Engineer Recent Graduate/Junior 👨‍💻
 <!--
 **SiliCircuitCoder/SiliCircuitCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
