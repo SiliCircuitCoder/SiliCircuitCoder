@@ -7,3 +7,17 @@ Soy un ingeniero recién graduado apasionado por la tecnología, entusiasta del 
 
 My Skill´s/Mis habilidades
 ---
+#Academical
+  *Análisis y diseño de Circuitos Analógico/Digitales/Potencia.
+  *Diseño de sensores.
+  *Manejo de Instrumentos de medición de Harwdare para pruebas y verificación de funcinalidad como:
+    Osciloscopio, Multímetro, Analizador Lógico.
+  *Diseño de PCB´s PTH/SMT con EAGLE/FUSION 360 con su modelado 3D
+  *Desarrollo de programación en sistemas embebidos con arquitectura de 8,32 bits
+  *Análisis y calculos para sistemas de comunicación inalámbrica
+
+#Profesional
+  *Dearrollo de software para ambiente de pruebas de sistemas embebidos
+  *Análisis y monitoreo de Mensajes CAN
+  
+  
